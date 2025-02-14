@@ -11,3 +11,6 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ### 启动
 sh app.sh /path/to/your/model 8080
+
+# ref
+https://github.com/limcheekin/open-text-embeddings
